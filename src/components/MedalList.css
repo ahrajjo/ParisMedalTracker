@@ -1,0 +1,46 @@
+.medal-list-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    border: none;
+}
+
+th {
+    background-color: #b08968;
+    padding: 20px;
+    border-radius: 20px;
+    color: #ede0d4;
+}
+
+td {
+    border: 4px solid white;
+    border-radius: 20px;
+    padding:15px;
+}
+.list-table {
+    text-align: center;
+    padding: 20px;
+    font-weight: 700;
+    margin-bottom: 150px;
+}
+
+.empty-country {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    margin-bottom: 150px;
+}
+
+.delete-btn {
+    border: none;
+    border-radius: 15px;
+    background-color: #9c6644;
+    color: #ede0d4;
+    padding:10px;
+}
+
+.delete-btn:hover {
+    cursor: pointer;
+    background-color: #ddb892;
+}

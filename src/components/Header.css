@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #b08968;
+}
+
+.title h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #ede0d4;
+  margin-bottom: 10px;
+  font-size: 2em;
+}
+
+.title p {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 0.8em;
+  color: #ede0d4;
+}
